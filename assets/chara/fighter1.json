@@ -1,0 +1,9 @@
+{
+    "speed"  : 8,
+    "jump"   : 7,
+    "gravity": 1,
+    "health" : 100,
+    "scale"  : 4,
+    "size"   : 162,
+    "offset" : [70,40]
+}
